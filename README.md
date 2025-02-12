@@ -32,4 +32,4 @@
 
 ###
 
-<p align="left">- Connect with me on <a href="www.linkedin.com/in/albertoscagliarini">LinkedIn</a></p>
+<p align="left">- Connect with me on <a href="https://www.linkedin.com/in/albertoscagliarini">LinkedIn</a></p>
