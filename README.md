@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">💻 Core competencies</h2>
+<h2 align="left">🎯 Skills</h2>
 
 ###
 
