@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm Alberto Scagliarini.</h1>
+<h1 align="left">Hi, I'm Alberto Scagliarini!</h1>
 
 ###
 
@@ -9,20 +9,20 @@
 
 ###
 
-<h2 align="left">🎯 Skills</h2>
+<h2 align="left">Skills</h2>
 
 ###
 
 <ul>
-  <li>🛠️ <strong>Stack:</strong> Python, SQL, Markdown</li>
-  <li>📊 <strong>Data Visualization:</strong> PowerBI</li>
-  <li>💻 <strong>Development:</strong> Visual Studio Code, Jupyter Notebook</li>
+  <li><strong>Stack:</strong> Python, SQL, Markdown</li>
+  <li><strong>Data Visualization:</strong> PowerBI</li>
+  <li><strong>Development:</strong> Visual Studio Code, Jupyter Notebook</li>
 </ul>
 
 ###
 
-<h2 align="left">📫 How to reach me</h2>
+<h2 align="left">How to reach me</h2>
 
 ###
 
-<p align="left">🔗 Connect with me on <a href="https://www.linkedin.com/in/albertoscagliarini">LinkedIn</a></p>
+<p align="left">Connect with me on <a href="https://www.linkedin.com/in/albertoscagliarini">LinkedIn</a></p>
